@@ -6,6 +6,6 @@ Designed and developed Portfolio website
 ![m4](https://user-images.githubusercontent.com/87479740/190874917-8ff9c8ac-b4c1-43d8-b669-af1cfe99e6f9.jpeg)
 ![m5](https://user-images.githubusercontent.com/87479740/190874922-b3
 ![m6](https://user-images.githubusercontent.com/87479740/190874924-6fd5fc1a-31ae-4afc-8498-277c9086bfc7.jpeg)
-ad5a5f-6700-483d-bab3-a24969ada264.jpeg)
+
 
 
